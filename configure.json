@@ -1,6 +1,6 @@
 {
   "start_time": "2018-01-01 00:00",
-  "end_time": "2018-02-28 23:59",
+  "end_time": "2019-02-28 23:59",
   "time_frame": 1440,
   "news_dir":"/Users/k2rth1k/swm/News/",
   "pkls_dir":"/Users/k2rth1k/swm/stock_prediction_g24_p3/data_preprocess/pkls/",
