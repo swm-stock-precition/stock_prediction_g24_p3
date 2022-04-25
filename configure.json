@@ -1,0 +1,16 @@
+{
+  "start_time": "2018-01-01 00:00",
+  "end_time": "2018-12-31 23:59",
+  "buffer_end_time": "2019-01-17 23:59",
+  "time_frame": 1440,
+  "news_dir": "/Users/k2rth1k/swm/News/",
+  "pkls_dir": "/Users/k2rth1k/swm/stock_prediction_g24_p3/data_preprocess/pkls/",
+  "project_dir": "/Users/k2rth1k/swm/stock_prediction_g24_p3/",
+  "chart_pkls": "pkls/charts/",
+  "news_data_pkls": "pkls/news_data/",
+  "full_data_pkls": "pkls/full_data/",
+  "sub_folders": {
+    "data_preprocess": "data_preprocess/"
+  },
+  "feature_pkls": "feature_extraction/pkls/"
+}
