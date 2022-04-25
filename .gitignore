@@ -1,5 +1,15 @@
 .idea
 data_preprocess/.DS_STORE
-data_preprocess/pkls/*
+data_preprocess/pkls/charts/*
+data_preprocess/pkls/full_data/*
+data_preprocess/pkls/news_data/*
 pkls/
 feature_extraction/pkls/*
+models/log/pkls/ngram/*
+models/nb/pkls/ngram/*
+models/svm/pkls/ngram/*
+models/xgboost/pkls/ngram/*
+.DS_Store
+models/.DS_Store
+models/log/.DS_Store
+models/nb/.DS_Store
