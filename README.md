@@ -47,7 +47,7 @@
 ## configure.json
     Fill the fields with appropriate folder paths to run the project in your machine.
 
-##How to use this project for prediction
+# How to use this project for prediction
     1) run all the files in data_preprocess first.
     2) for each feature_extraction run the designated .ipynb files in feature_extraction/ folder to
         get the features.
